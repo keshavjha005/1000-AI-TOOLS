@@ -76,7 +76,6 @@
 | [Artshop](http://artshops.xyz) | Artshop. | Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home. | :grey_question: |
 | [Astria.ai](http://www.astria.ai) | Astria - Tailor-Made AI Image Generation. | Create custom images using AI. | :grey_question: |
 | [Bg Eraser](http://bgeraser.com) | Bg Eraser - Magic Eraser for Picture Clean Up. | Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and clean up pictures in seconds. | :grey_question: |
-| [CLIP STUDIO PAINT](http://www.clipstudio.net) | は、売上No.1＆利用率No.1*のイラスト、マンガ、アニメーション制作アプリ。みんな使ってるから、憧れの作風も再現できて、ノウハウもたくさん. | は、リアルで自然な描き味と充実の機能、驚くほど便利な素材が多数。世界中のユーザーがアップロードした10万点以上の素材をダウンロードすれば、ラクしてもっとクオリティの高い作品に。. | :grey_question: |
 | [Cartoonize](http://imagetocartoon.com) | Image to Cartoon. | Best AI cartoonizer online for free. | :white_check_mark: |
 | [DALL·E 2](https://openai.com/dall-e-2/) | Dall·E 2 Is a New AI System That Can Create Realistic Images and Art From a Description in Natural Language. | DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles. | :white_check_mark: |
 | [DaVinciFace](http://www.davinciface.com) | AI Portrait - Davinci Face Made by Mathema. | DaVinci Face is a software – based on the most innovative Artificial Intelligence techniques, in particular on GAN (Generative Adversarial Network) to create Leonardesque-style portraits. | :grey_question: |
