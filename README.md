@@ -1,10 +1,10 @@
 <div align="center">
     <img width="150" alt="ai-picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
 <!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
-    <h1>1000 AI collection tools</h1>
+    <h1>1000 AI-tools</h1>
     <i>More than 1000 Artificial Intelligence AI-powered tools</i>
     <br />
-    <i>categorized & updated 28 Aug. 2023 </i>
+    <i>categorized & updated 07 sep 2025 </i>
     !Before using any AI tools remember to read and check the Terms and Conditions / Privacy policy. Especially for using your personal pictures!
     <br />
 </div>
